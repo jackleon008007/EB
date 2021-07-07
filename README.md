@@ -1,5 +1,4 @@
 # EB 
-
 Aqui se muestra la descripción para el diseño, de acuerdo a las euristicas de usabilidad y arquitectura
 de información.
 
@@ -13,7 +12,10 @@ como las que nos muestran los servicios
 
 Shape: usamos formas de cuadros y formas para los cards y el menu y otros elementos
 
-
+Disclosure:
+muestra la informacion necesaria para que usuario pueda obtener la informacion
+que necesita, ya se en servicios para agricultores o querer pertnecer la empresa.
+ 
 size: se utilizo diferentes tamaños para las letras y resaltar la informacion importante.
 
 
@@ -46,6 +48,9 @@ a interactuar de la manera que desee ya por el menu o el boton de subir y escoge
 
 Front doors: se presenta informacion clara y precisa, de modo que 
 cualquier usuario ya se experto o amateur sea capaz de navegar por el landing 
-por su cuenta:
+por su cuenta.
 
 
+
+
+  
